@@ -28,15 +28,15 @@
     font-size:2.2em;
   }
   
-  col-1 p {
+  .col-1 p {
     column-count:2;
   
   }
   
-  col-2 p {
+  .col-2 p {
     column-count:2;
   }
-  col-3 p {
+  .col-3 p {
     column-count:2;
   }
   
@@ -51,4 +51,6 @@
   #navbar nav a {
     font-size:0.9em;
   }
+  
+  .col-1
   }
