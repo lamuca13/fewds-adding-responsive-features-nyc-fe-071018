@@ -31,4 +31,9 @@
   col-3 p {
     column-count:2;
   }
-}
+  
+  #social {
+    position: absolute;
+    top: 72px;
+  }
+  }
